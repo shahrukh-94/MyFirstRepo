@@ -1,3 +1,3 @@
 # MyFirstRepo
 this is my first repository
-author-Shah
+author-Shah rukh
